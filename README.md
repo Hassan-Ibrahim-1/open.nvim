@@ -30,3 +30,8 @@ vim.keymap.set('n', '<leader>ob', function() require('open').open('~/books') end
 ```
 
 Opens the specified file with its configured program.
+
+## Dependencies
+
+* Telescope
+* Ripgrep
